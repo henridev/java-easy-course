@@ -51,7 +51,7 @@ only 5 possible types to check :
 - primitives each have a wrapper class
   - number types contain min and max val in their classes
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fdata-types-in-java%2F&psig=AOvVaw3cdCWTQ6YPjVU4q8cTBpAX&ust=1601616222716000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDe8cPTkuwCFQAAAAAdAAAAABAD">
+<img src="https://facingissuesonitcom.files.wordpress.com/2019/06/java-primitive-type-keywords-.png">
 
 **letters and symbols**
 
